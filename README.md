@@ -70,7 +70,7 @@ Power BI dashboard providing comprehensive business analytics for e-commerce ope
 
 ## 👤 Author
 **DHIWAKAR S**  
-Aspiring Data Analyst / AI-ML Engineer  
+Aspiring Data Analyst / Stack Developer  
 [LinkedIn Profile](https://www.linkedin.com/in/dhiwakar-s-492354384/)  
 [GitHub Profile](https://github.com/Dhiwakar4693)
 
