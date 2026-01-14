@@ -3,7 +3,7 @@
 ## 🎯 Overview
 Power BI dashboard providing comprehensive business analytics for e-commerce operations with $6.3M revenue across 5,000 customers and 9 product categories.
 
-![Business Dashboard](dashboad_output.png)
+![Business Dashboard](image/dashboad_output.png)
 
 ## 📈 Key Metrics
 - **Total Revenue**: $6,299,849.43
@@ -51,7 +51,7 @@ Power BI dashboard providing comprehensive business analytics for e-commerce ope
 4. Export reports as needed
 
 ## 📊 Dashboard Preview
-![ Dashboard](dashboad_output.png)
+![ Dashboard](image/dashboad_output.png)
 
 *Dashboard showing revenue distribution, customer demographics, payment methods, and monthly trends*
 
